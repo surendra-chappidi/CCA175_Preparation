@@ -1,7 +1,12 @@
 Spark and Hadoop Developer CCA Exam Prep
 
 Data Ingest
+——————
 
 The skills to transfer data between external systems and your cluster. This includes the following:
 
-Import data from a MySQL database into HDFS using Sqoop
+1. Import data from a MySQL database into HDFS using Sqoop
+2. Export data to a MySQL database from HDFS using Sqoop
+3. Change the delimiter and file format of data during import using Sqoop
+4. Ingest real-time and near-real time (NRT) streaming data into HDFS using Flume
+5. Load data into and out of HDFS using the Hadoop File System (FS) commands
